@@ -1,0 +1,39 @@
+_repo: Citt-and-Bumpkin--1680-_38342
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Rahn, B. J. (Beverly Jean)
+    alias: Rahn, Beverly Jean
+    birthdate: 1934
+    gutenberg_agent_id: '39412'
+    url: http://www.gutenberg.org/2009/agents/39412
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: L'Estrange, Roger, Sir
+    aliases:
+    - L'Estrange, R. (Roger), Sir
+    - L'Estrange, Sir Roger
+    birthdate: 1616
+    deathdate: 1704
+    gutenberg_agent_id: '39411'
+    url: http://www.gutenberg.org/2009/agents/39411
+    wikipedia: http://en.wikipedia.org/wiki/Roger_L'Estrange
+description: ''
+gutenberg_issued: '2011-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38342'
+  lccn: '66002875'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Dialogues, English -- Early works to 1800'
+- !lcsh 'Great Britain -- History -- Charles II, 1660-1685 -- Pamphlets'
+title: Citt and Bumpkin (1680)
+url: http://www.gutenberg.org/ebooks/38342
